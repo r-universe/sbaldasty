@@ -5,4 +5,4 @@
 [submodule "agentdagwood"]
 	path = agentdagwood
 	url = https://github.com/sbaldasty/agent-dagwood
-	branch = v1
+	branch = v2
