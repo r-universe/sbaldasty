@@ -1,0 +1,10 @@
+{
+  "id": 132138801,
+  "created_at": "2026-05-13T22:12:25.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["agent-dagwood", "sbaldasty.r-universe.dev"]
+}
